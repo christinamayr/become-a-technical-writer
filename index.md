@@ -1,19 +1,120 @@
-## Welcome to GitHub Pages
+## So You Want to be a Technical Writer...
 
 You can use the [editor on GitHub](https://github.com/christinamayr/become-a-technical-writer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Start Building a Network
+#### Join, participate in, and volunteer for a professional organization
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**STC**
+- STC Website: https://stc.org
+- STC Slack: https://stc.slack.com/ 
+- Annual STC Summit: https://summit.stc.org/ 
+
+**Write the Docs**
+- WTD Website: https://writethedocs.org
+- WTD Slack: https://writethedocs.slack.com/ 
+
+**Other professional orgs**
+
+#### Join and stay active in LinkedIn & Slack groups
+
+**LinkedIn Groups**
+- Technical Writer Forum: https://www.linkedin.com/groups/112571/
+- Technical Writing & Content Management: https://www.linkedin.com/groups/3327127/ 
+- DITA Awareness Group: https://www.linkedin.com/groups/162465/
+
+#### Find a mentor
+
+#### Read and follow blogs
+- The Content Wrangler: http://thecontentwrangler.com/
+- I’d Rather Be Writing: https://idratherbewriting.com/ 
+- Scriptorium: https://www.scriptorium.com/blog/
+- Content Garden: http://contentgarden.org/blog
+- The Content Marketing Institute: http://contentmarketinginstitute.com/blog/
+
+### Showcase Your Writing Samples in a Portfolio 
+A portfolio demonstrates your:
+- Writing and design skills
+- Ability to understand your audience and their needs
+
+#### How do I get samples? 
+- 
+
+#### What should I include?
+
+#### Portfolio Resources
+- [Adventures in Creating an Online Technical Writing Portfolio](https://www.stc-psc.org/my-adventures-in-creating-an-online-writing-portfolio/) (STC PSC article)
+- [Using Google Sites for Portfolios (slides)](https://docs.google.com/presentation/d/1OAmgFyAWdbjvcpF0SPIX8HCZuUnqqxs9k3Tn8LOKHl4/edit?usp=sharing)
+
+### Further Your Edcation
+#### What should I learn?
+- Writing process
+- Tools
+- Project management 
+- User experience
+- Content Strtegy
+
+#### Where can I learn online?
+
+**Online Courses & Webinars**
+- BrightTalk
+- Udemy
+- Coursera
+- LinkedIn Learning
+- YouTube
+
+**Books and Publications**
+- Technical Communication Body of Knowledge: https://www.tcbok.org/ 
+- Technical Communication Today: https://amzn.to/2CFJySO 
+- Technical Writing 101: A Real-World Guide to Planning and Writing Technical Content: https://www.amazon.com/Technical-Writing-101-Real-World-Planning/dp/0970473362 
+- Content Strategy in Technical Communication: https://amzn.to/3eUY4mJ 
+- The Language of Content Strategy: http://amzn.to/2fkgkto 
+- Managing Enterprise Content: A Unified Content Strategy: http://amzn.to/2fiQ7eL 
+
+#### Are there certificates?
+**Continuing Education Certificates**
+
+**Graduate Certificates**
+
+#### What about certification?
+STC Courses
+Foundation Certification
+Graduate Certificates
+Online Courses
+
+#### Should I learn to code?
+
+### Learn the Tools of the Industry 
+- Desktop Publishing (Word, FrameMaker)
+- Help Authoring Tool ([Madcap Flare](https://www.madcapsoftware.com/services/paid-training/schedule/), Robohelp)
+- Screen capturing (SnagIt)
+- Source control (Git/GitHub, GitLab) 
+- Diagramming (LucidChart, Visio))
+- Graphic Design (Canva)
+- Adobe Acrobat Pro
+- Structured / Topic-based Authoring Standards such as DITA or DocBook
+
+Depending on your target industry, there may be other tools you need to learn, but you should be able to glean this from the online job postings. 
+
+#### More Tools Resources
+- [See a more comprehensive tools list here](https://docs.google.com/document/d/1P_UyBwplQtQjJfD1jiY_Jt89s9Rm3vVNHVuyWu_LqcY/edit?usp=sharing) (Google Doc)
+- [The 5 Types of Authoring Tools Technical Writers Use](https://www.stc-carolina.org/2018/11/21/the-5-types-of-authoring-tools-technical-writers-use/) (STC Carolina Blog)
+- [Slides: Finding the Right Authoring Tool](https://www.slideshare.net/CarolinaChapterSTC/finding-the-right-authoring-tool) (SlideShare)
+
+### Apply for Jobs 
+
+#### Job Searching Resources
+- [From Job Description to Job Offer](https://www.slideshare.net/CarolinaChapterSTC/from-job-description-to-job-offer-a-hiring-managers-journey) (Slideshare)
+- [Your Resume as a Writing Sample](https://www.slideshare.net/CarolinaChapterSTC/resume-work-samplecareerday2018-1) (Slideshare)
+- [How to Launch a Tech Comm Career](https://www.slideshare.net/CarolinaChapterSTC/stc-carolina-career-day-2018-how-to-find-a-job-presentation) (Slideshare)
+- Technical Writer Occupational Outlook (BLS): https://www.bls.gov/ooh/media-and-communication/technical-writers.htm 
+- STC Job Bank: https://careers.stc.org/jobs/ 
+- 
 
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
@@ -25,13 +126,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/christinamayr/become-a-technical-writer/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

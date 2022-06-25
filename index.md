@@ -55,6 +55,10 @@ A portfolio demonstrates your:
 - Project management 
 - User experience
 - Content Strtegy
+- Agile/Scrum
+- APIs/SDKs
+- Information Architecture
+- Web Design / Development (HTML, CSS, JavaScript)
 
 #### Where can I learn online?
 

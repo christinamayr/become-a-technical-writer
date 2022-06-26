@@ -1,12 +1,15 @@
 Looking for contract work? Check with these agencies, many of which specialize in technical documentation, instructional design, and content management. 
 
-- WritingAssist, Inc.
+- [Adecco](https://www.adeccousa.com/)
 - [Cherry Leaf](https://www.cherryleaf.com/recruitment_services/)
 - [FedWriters](https://www.fedwriters.com/)
 - [Hays](https://www.hays.com/)
 - [Innovatia](https://www.innovatia.net/careers)
+- [Insight Global](https://insightglobal.com/consultants/)
+- [Kelly Services](https://www.kellyservices.com/)
 - [ProEdit](https://proedit.com/staffing/)
 - [ProSpring Staffing](https://prospringstaffing.com/)
+- [Randstad](https://www.randstadusa.com/)
 - [Robert Half](https://www.roberthalf.com/looking-for-a-job)
 - [TEKSystems](https://www.teksystems.com/en)
 - [The Select Group](https://www.selectgroup.com/career-seekers/)

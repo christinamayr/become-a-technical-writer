@@ -101,6 +101,8 @@ Online Courses
 Depending on your target industry, there may be other tools you need to learn, but you should be able to glean this from the online job postings. 
 
 #### More Tools Resources
+- [The State of Tools](https://www.stc.org/intercom/2023/04/the-state-of-tools/) - STC Intercom March/April Feature Article
+- [Tools Technical Writers Should Learn](https://vimeo.com/632152442) (Video recording - SIGDOC 2021 Raleigh Keynote)
 - [See a more comprehensive tools list here](https://docs.google.com/document/d/1P_UyBwplQtQjJfD1jiY_Jt89s9Rm3vVNHVuyWu_LqcY/edit?usp=sharing) (Google Doc)
 - [The 5 Types of Authoring Tools Technical Writers Use](https://www.stc-carolina.org/2018/11/21/the-5-types-of-authoring-tools-technical-writers-use/) (STC Carolina Blog)
 - [Slides: Finding the Right Authoring Tool](https://www.slideshare.net/CarolinaChapterSTC/finding-the-right-authoring-tool) (Slideshare)

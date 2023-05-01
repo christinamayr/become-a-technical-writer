@@ -8,31 +8,31 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 #### Join, participate in, and volunteer for a professional organization
 
 **STC**
-- STC Website: https://stc.org
-- STC Slack: https://stc.slack.com/ 
-- Annual STC Summit: https://summit.stc.org/ 
+- STC Website: [https://stc.org](https://stc.org)
+- STC Slack: [https://stc.slack.com](https://stc.slack.com)
+- Annual STC Summit: [https://summit.stc.org/](https://summit.stc.org/)
 
 **Write the Docs**
-- WTD Website: https://writethedocs.org
-- WTD Slack: https://writethedocs.slack.com/ 
+- WTD Website: [https://writethedocs.org](https://writethedocs.org)
+- WTD Slack: [https://writethedocs.slack.com/](https://writethedocs.slack.com/)
 
 **Other professional orgs**
 
 #### Join and stay active in LinkedIn & Slack groups
 
 **LinkedIn Groups**
-- Technical Writer Forum: https://www.linkedin.com/groups/112571/
-- Technical Writing & Content Management: https://www.linkedin.com/groups/3327127/ 
-- DITA Awareness Group: https://www.linkedin.com/groups/162465/
+- Technical Writer Forum: [https://www.linkedin.com/groups/112571/](https://www.linkedin.com/groups/112571/)
+- Technical Writing & Content Management: [https://www.linkedin.com/groups/3327127/](https://www.linkedin.com/groups/3327127/)
+- DITA Awareness Group: [https://www.linkedin.com/groups/162465/](https://www.linkedin.com/groups/162465/)
 
 #### Find a mentor
 
 #### Read and follow blogs
-- The Content Wrangler: http://thecontentwrangler.com/
-- I’d Rather Be Writing: https://idratherbewriting.com/ 
-- Scriptorium: https://www.scriptorium.com/blog/
-- Content Garden: http://contentgarden.org/blog
-- The Content Marketing Institute: http://contentmarketinginstitute.com/blog/
+- The Content Wrangler: [http://thecontentwrangler.com/](http://thecontentwrangler.com/)
+- I’d Rather Be Writing: [https://idratherbewriting.com/](https://idratherbewriting.com/)
+- Scriptorium: [https://www.scriptorium.com/blog/](https://www.scriptorium.com/blog/)
+- Content Garden: [http://contentgarden.org/blog](http://contentgarden.org/blog)
+- The Content Marketing Institute: [http://contentmarketinginstitute.com/blog/](http://contentmarketinginstitute.com/blog/)
 
 ### Showcase Your Writing Samples in a Portfolio 
 A portfolio demonstrates your:
@@ -70,12 +70,12 @@ A portfolio demonstrates your:
 - YouTube
 
 **Books and Publications**
-- Technical Communication Body of Knowledge: https://www.tcbok.org/ 
-- Technical Communication Today: https://amzn.to/2CFJySO 
-- Technical Writing 101: A Real-World Guide to Planning and Writing Technical Content: https://www.amazon.com/Technical-Writing-101-Real-World-Planning/dp/0970473362 
-- Content Strategy in Technical Communication: https://amzn.to/3eUY4mJ 
-- The Language of Content Strategy: http://amzn.to/2fkgkto 
-- Managing Enterprise Content: A Unified Content Strategy: http://amzn.to/2fiQ7eL 
+- [Technical Communication Body of Knowledge](https://www.tcbok.org/)
+- [Technical Communication Today](https://amzn.to/2CFJySO)
+- [Technical Writing 101: A Real-World Guide to Planning and Writing Technical Content](https://www.amazon.com/Technical-Writing-101-Real-World-Planning/dp/0970473362)
+- [Content Strategy in Technical Communication](https://amzn.to/3eUY4mJ)
+- [The Language of Content Strategy](http://amzn.to/2fkgkto)
+- [Managing Enterprise Content: A Unified Content Strategy](http://amzn.to/2fiQ7eL) 
 
 #### Are there certificates?
 **Continuing Education Certificates**

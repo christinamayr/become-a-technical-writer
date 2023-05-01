@@ -1,9 +1,5 @@
 ## So You Want to be a Technical Writer...
 
-You can use the [editor on GitHub](https://github.com/christinamayr/become-a-technical-writer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Start Building a Network
 #### Join, participate in, and volunteer for a professional organization
 
@@ -17,6 +13,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - WTD Slack: [https://writethedocs.slack.com/](https://writethedocs.slack.com/)
 
 **Other professional orgs**
+- AIIP
+- KMI
 
 #### Join and stay active in LinkedIn & Slack groups
 
